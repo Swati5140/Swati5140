@@ -7,17 +7,24 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
-- 📫 How to reach me **iamswatisachan@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+### Connect with me:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/swati ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swati ." height="30" width="40" /></a>
-<a href="https://kaggle.com/swati5140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="swati5140" height="30" width="40" /></a>
-</p>
+[<img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail&logoColor=D14836" alt="Gmail logo" title="Gmail" height="25" />](mailto:iamswatisachan@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://linkedin.com/in/swatisachan)
+[<img src="https://img.shields.io/badge/Kaggle-282C34?logo=kaggle&logoColor=0077B5" alt="Kaggle logo" title="Kaggle" height="25" />](https://kaggle.com/Swati5140)
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swati5140)](https://github.com/anuraghazra/github-readme-stats)
+[![Swati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swati5140&show_icons=true&theme=dracula)](https://github.com/Swati5140/Swati5140)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swati5140&layout=compact)](https://github.com/Swati5140/Swati5140)
+
+
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/pandas.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/numpy.svg" />
+
+<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
+
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/ruby.png"></code>
