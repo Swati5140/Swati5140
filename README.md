@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/Swati5140/Swati5140/master/images/git_banner.png" />
 
 <h1 align="center">Hi 👋, I'm Swati</h1>
-<h3 align="center">A Data Science enthusiast from India</h3>
+<h3 align="left">A Data Science enthusiast from India</h3>
 
 - 🔭 I’m currently working on **ITSM with ML & DL**
 
