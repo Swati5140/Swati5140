@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Swati5140/Swati5140/master/images/git_banner.png" />
+
 <h1 align="center">Hi 👋, I'm Swati</h1>
 <h3 align="center">A Data Science enthusiast from India</h3>
 
@@ -15,16 +17,24 @@
 [<img src="https://img.shields.io/badge/Kaggle-282C34?logo=kaggle&logoColor=0077B5" alt="Kaggle logo" title="Kaggle" height="25" />](https://kaggle.com/Swati5140)
 
 ### Languages and Tools:
-<p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<code><img height="30" src="https://raw.githubusercontent.com/Swati5140/Swati5140/master/icons/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Swati5140/Swati5140/master/icons/numpy.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Swati5140/Swati5140/master/icons/pandas.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Swati5140/Swati5140/master/icons/matplotlib.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Swati5140/Swati5140/master/icons/seaborn.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Swati5140/Swati5140/master/icons/scipy.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Swati5140/Swati5140/master/icons/sklearn.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Swati5140/Swati5140/master/icons/tensorflow.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Swati5140/Swati5140/master/icons/colab.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Swati5140/Swati5140/master/icons/jupyter.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Swati5140/Swati5140/master/icons/spyder.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Swati5140/Swati5140/master/icons/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Swati5140/Swati5140/master/icons/tableau.png"></code>
+
+
 
 [![Swati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swati5140&show_icons=true&theme=dracula)](https://github.com/Swati5140/Swati5140)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swati5140&layout=compact)](https://github.com/Swati5140/Swati5140)
 
-
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/pandas.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/numpy.svg" />
-
-<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
-
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/ruby.png"></code>
