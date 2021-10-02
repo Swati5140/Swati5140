@@ -46,7 +46,7 @@
 [![Swati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swati5140&show_icons=true&theme=dracula)](https://github.com/Swati5140/Swati5140)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swati5140&layout=compact)](https://github.com/Swati5140/Swati5140)
 
-[Portfolio]: https://swati5140.github.io/data_science_portfolio/
+[Portfolio]: https://mydatascienceportfolio.in/
 
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/Swati5140/arsentieva/main/coder.gif?raw=true" width="650" height="450" />
 
